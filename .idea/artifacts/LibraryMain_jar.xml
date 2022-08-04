@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LibraryMain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LibraryMain_jar</output-path>
+    <root id="archive" name="LibraryMain.jar">
+      <element id="module-output" name="LibraryMain" />
+    </root>
+  </artifact>
+</component>
